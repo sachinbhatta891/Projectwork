@@ -1,11 +1,4 @@
-/* Colorful Background with Animation */
-body {
-    background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1, #fda085, #f6d365);
-    background-size: 400% 400%;
-    animation: gradientBG 10s ease infinite;
-    text-align: center;
-    font-family: 'Poppins', sans-serif;
-}
+
  .map-container{
    padding: 10px;
    
